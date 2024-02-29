@@ -1,0 +1,2 @@
+# depok
+tea testnet
